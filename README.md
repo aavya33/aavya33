@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aavya33
-- 👀 I’m interested in data science and ai and machine learning
-- 🌱 I’m currently learning python and mysql
+- 👀 data enthusiast , data analyst , exploring data engineering 
+- 🌱 skilled in python , numpy , pandas, matplotlib , sql , postgre sql , and currently learning pyspark and microsoft azure 
 - 💞️ I’m looking to collaborate on some innovative data science project 
 - 📫 How to reach me my gmail is aavyagupta100@gmail.com
 

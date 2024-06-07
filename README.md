@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aavya33
-- 👀 data enthusiast , data analyst , exploring data engineering 
-- 🌱 skilled in python , numpy , pandas, matplotlib , sql , postgre sql , and currently learning pyspark and microsoft azure 
-- 💞️ I’m looking to collaborate on some innovative data science project 
+- 👀 Aspiring Data Engineer , Data Analyst , exploring the world of  data engineering 
+- 🌱 skilled in Python ,Sql, numpy , pandas, matplotlib , sql , Microsoft Azure , Pyspark , Azure DataFactory , Azure Databricks , powerBi 
+- 💞️ I’m looking to collaborate on some innovative Data Engineering project. 
 - 📫 How to reach me my gmail is aavyagupta175@gmail.com
 
 <!---
